@@ -1,9 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>AgriX — Project README</title>
-</head>
+
 <body>
   <h1>AgriX — Revolutionizing Agriculture</h1>
   <p>
